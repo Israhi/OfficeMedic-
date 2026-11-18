@@ -30,11 +30,6 @@ OfficeMedic is built using **C#**, **.NET 8.0**, and **WPF**.
 - Visual Studio 2022 (or Rider)
 - .NET 8.0 Desktop Runtime
 
-### How to build
-1. Clone the repository: `git clone https://github.com/YourUser/OfficeMedic.git`
-2. Open `OfficeMedic.sln` or the `.csproj` file in your IDE.
-3. Build the project.
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! 
